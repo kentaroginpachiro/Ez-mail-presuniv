@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">EZ Mail PresUniv</string>
+    <string name="president">President&#160;</string>
+    <string name="university">University</string>
+    <string name="academic_desc">
+        <![CDATA[
+        The Academic Bureau at President University is a key administrative department that manages several critical academic processes and
+        documentation for students. Here are the details of the services they provide:
+
+        <ul>
+            <li><b>Enrollments Schedule:</b> They manage and communicate the schedule for course enrollments.</li>
+            <li><b>Class Schedule:</b> They organize and distribute the timetable for all classes.</li>
+            <li><b>GPA:</b> They handle the recording and reporting of students\' Grade Point Averages.</li>
+            <li><b>Diploma &amp; Transcript:</b> They issue official academic transcripts and diplomas.</li>
+            <li><b>Resign:</b> They process student resignations from the university.</li>
+            <li><b>Drop Out:</b> They manage the formalities for students who wish to discontinue their studies.</li>
+            <li><b>Academic Leave:</b> They handle requests for academic leave of absence.</li>
+            <li><b>General Document Request:</b> They provide various academic-related documents upon request.</li>
+            <li><b>Judicium Clearance:</b> They manage the clearance process for students who are about to graduate.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="finance_desc">
+        <![CDATA[
+        The Finance and Accounting Bureau at President University is responsible for managing financial matters related to students. Here\'s a detailed list of their responsibilities:
+
+        <ul>
+            <li><b>Tuition Fee:</b> Handling payments related to students\' tuition.</li>
+            <li><b>Installment:</b> Managing installment plans for tuition fee payments.</li>
+            <li><b>Late Payment:</b> Addressing issues related to late payments.</li>
+            <li><b>Outstanding Payment Validation for Enrollment:</b> Validating payments for enrollment purposes.</li>
+            <li><b>Financial Assistance:</b> Providing information and managing applications for financial aid.</li>
+            <li><b>Extension Fee:</b> Processing fees for extension of study periods.</li>
+            <li><b>Thesis Defense Fee:</b> Managing payments for thesis defense sessions.</li>
+            <li><b>Graduation Enrollment Fee:</b> Handling fees related to graduation procedures.</li>
+            <li><b>Student Resignation Fee:</b> Processing fees for students who resign from the university.</li>
+            <li><b>Academic Leave Fee:</b> Managing fees for academic leave.</li>
+            <li><b>Other Payment Matters:</b> Addressing various other payment-related issues.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="icc_desc">
+        <![CDATA[
+        The Internship and Career Center (ICC) at President University is a department that handles matters related to professional development and
+        internships for students. Here are the main responsibilities of the ICC:
+
+        <ul>
+            <li><b>Professional Stream:</b> Managing and providing guidance on professional streams, which are career pathways for students.</li>
+            <li><b>Internship Program:</b> Overseeing all aspects of the internship program, including placements, coordination with companies, and ensuring that students gain valuable work experience.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="ellc_desc">
+        <![CDATA[
+        The English Language and Literature Center (ELLC), previously known as the Culture and Language Center (CLC),
+        is a department at President University that focuses on English language services. Here are the services provided by ELLC:
+
+        <ul>
+            <li><b>President English Test (PET):</b> Administration of the English proficiency test.</li>
+            <li><b>FREE English-tutoring service:</b> For students who want to improve their English skills.</li>
+            <li><b>Translation/proofreading certificate:</b> Available for Lecturers/Staffs Only.</li>
+            <li><b>English competency score validation:</b> Validation of English proficiency scores.</li>
+            <li><b>Minimum standard for English proficiency:</b> Setting and validating the minimum English proficiency standards for students.</li>
+            <li><b>Judicium clearance validation on English Proficiency:</b> Ensuring students meet the English proficiency requirements for graduation.</li>
+            <li><b>English proficiency development program:</b> Programs designed to help students improve their English language skills.</li>
+            <li><b>Non-credits English subjects:</b> Offering English subjects that do not count towards credit requirements but aid in language proficiency.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="ga_desc">
+        <![CDATA[
+        The General Affairs (GA) Office at President University is tasked with several important operational functions to
+        support the university\'s daily activities and special events. Here are more details about their responsibilities:
+
+        <ul>
+            <li><b>COVID-19 Task Force:</b> They manage and implement measures to prevent and control COVID-19 on campus, ensuring the health and safety of the university community.</li>
+            <li><b>Classroom Arrangement:</b> They organize and schedule the use of classrooms to accommodate the academic needs of students and faculty.</li>
+            <li><b>Transportation Arrangement for Campus Events:</b> They coordinate transportation for various campus events, ensuring that logistics are handled efficiently.</li>
+            <li><b>Bus Schedule:</b> They manage the schedule of the campus bus service, providing students and staff with reliable transportation options.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="sa_desc">
+        <![CDATA[
+        The Student Affairs (SA) Bureau at President University plays a vital role in enriching the student experience beyond the classroom. Here are more details about their functions and services:
+
+        <ul>
+            <li><b>Kampus Merdeka:</b> They facilitate and provide consultation for students interested in participating in the Kampus Merdeka program,
+            which is a government initiative offering various learning opportunities outside the university curriculum.</li>
+            <li><b>Non-Academic Activities:</b> The SA Bureau organizes and supports a range of non-academic activities that contribute to students\' personal growth and leadership skills.</li>
+            <li><b>Competitions:</b> They assist and guide students who wish to participate in various competitions, both at the national and international levels,
+            promoting the university\'s presence and students\' talents.</li>
+            <li><b>Student Organizations:</b> The SA Bureau oversees student organizations, helping them plan and execute events and activities that enhance campus life.</li>
+            <li><b>Student Development:</b> They offer programs and workshops aimed at developing students\' soft skills and preparing them for their future careers.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="io_desc">
+        <![CDATA[
+        The International Office (IO) at President University is a hub for international affairs and services, catering to both local and international students. Here are more details about their functions:
+
+        <ul>
+            <li><b>Scholarship Stream:</b> They provide information and assistance to students seeking scholarships for international programs, including study abroad opportunities.</li>
+            <li><b>Student Visa:</b> The IO assists international students with obtaining and renewing their student visas, ensuring they maintain legal status during their studies in Indonesia.</li>
+            <li><b>Student Exchange Program:</b> They manage partnerships with universities around the world and coordinate the exchange programs,
+            allowing students to study part of their degree at a partner institution.</li>
+            <li><b>KITAS (Stay Permit):</b> The IO helps international students with the process of obtaining and renewing their KITAS,
+            which is the official stay permit required for long-term residency in Indonesia.</li>
+            <li><b>Other Matters Related to Foreign Students:</b> The IO serves as a support center for international students,
+            providing guidance on various issues such as cultural adaptation, legal matters, and any other challenges they may face while studying in Indonesia.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="alumni_desc">
+        <![CDATA[
+        The Alumni Relations Bureau at President University is dedicated to maintaining a strong connection between the university and its alumni.
+        Here are the key functions and services provided by the Alumni Relations Bureau:
+
+        <ul>
+            <li><b>Alumni Reunion:</b> They organize reunions for alumni to reconnect with their peers and the university.</li>
+            <li><b>President University Tracer Study:</b> They conduct surveys to track the career progression and impact of alumni in the workforce,
+            which is part of the university\'s obligation to the government.</li>
+            <li><b>Alumni Liaison:</b> The bureau serves as a point of contact for alumni to communicate with the university, offering support and facilitating engagement in various activities.</li>
+        </ul>
+
+        The Alumni Relations Bureau also provides information and assistance with other alumni-related requests, such as:
+
+        <ul>
+            <li><b>Diploma and Transcript Legalization:</b> Alumni can request legalized copies of their diploma and transcript.</li>
+            <li><b>Other Document Request:</b> Alumni can request other documents related to their academic and administrative records.</li>
+            <li><b>Tracer Study Participation:</b> Alumni are invited to participate in tracer studies to provide feedback on their educational experience and career development.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="dewan_desc">
+        <![CDATA[
+        The President University Ethics Board, or "Dewan Etik," is an important body that ensures all members of the university community adhere to established ethical standards.
+        The board handles issues related to misconduct and ethical breaches by both students and lecturers.<br><br>
+        The Ethics Board is composed of a Chairperson, Members, and a Secretariat. They are responsible for investigating complaints, enforcing the code of ethics,
+        and ensuring a safe and respectful environment for learning and teaching.<br><br>
+        You can contact the Dewan Etik (Ethics Board) at President University for the following reasons:<br><br>
+        <b>For Lecturers\' Violations:</b>
+        <ul>
+            <li>Acts that defame the honor and reputation of the university.</li>
+            <li>Failure to fulfill academic obligations (Tri Dharma Perguruan Tinggi).</li>
+            <li>Abuse of power in academic or non-academic activities.</li>
+            <li>Sexual harassment, either physical or psychological.</li>
+            <li>Plagiarism in scientific research.</li>
+            <li>Unfair treatment towards students or colleagues.</li>
+            <li>Romantic relationships with students.</li>
+            <li>Any other acts that violate Indonesian laws and regulations.</li>
+        </ul>
+
+        <b>For Students\' Violations:</b>
+        <ul>
+            <li>Academic dishonesty, such as plagiarism or document forgery.</li>
+            <li>Acts of disrespect towards any religion or belief.</li>
+            <li>Sexual misconduct, including harassment and pornography.</li>
+            <li>Violent crimes, theft, or distribution of illegal substances.</li>
+            <li>Possession or use of weapons or narcotics within the university area.</li>
+            <li>Destruction of university property or unauthorized use of facilities.</li>
+            <li>Wearing clothing that is considered indecent or offensive.</li>
+            <li>Any other acts that are prohibited under Indonesian law.</li>
+        </ul>
+        ]]>
+    </string>
+    <string name="dev_desc">
+        <![CDATA[
+        The developer EZ Mail PresUniv, the app you are currently interacting with, is the group of Wireless Mobile Programming from Cyber Security Class 1.<br><br>
+        The developer consists of 4 students from the class of 2022, they are:
+
+        <ul>
+            <li>Muhammad Yusuf (001202200028) as <b>Leader</b></li>
+            <li>Muhammad Fairuz Suhendi (001202200115) as <b>Member</b></li>
+            <li>Kemal muhammad fathan (001202200119) as <b>Member</b></li>
+            <li>Arius Aurelius (001202200040) as <b>Member</b></li>
+        </ul>
+
+        They handle the development, management, and maintenance of this app.
+        ]]>
+    </string>
+    <string name="pusc_desc">
+        <![CDATA[
+    Hello, Presunivers!✨<br><br>
+
+    In our commitment to enhance the President University student experience by providing the necessary facilities, the President University Student Council (PUSC) 2024
+    invites you to share your suggestions, feedback, and critiques during the PAY ATTENTION period, from December 1st to 20th, 2023.<br><br>
+
+    Your input is valuable, and we encourage you to contribute as every voice matters in shaping our university environment.<br><br>
+
+    Best regards,<br>
+    PUSC 2024
+    ]]>
+    </string>
+    <string name="computing_desc">
+    <![CDATA[
+    Hello Computizen!👋🏻<br>
+    Hope everything is okay🤗<br><br>
+
+    We\'re here to let you know that we\'re starting Aspirations Week!🤩<br><br>
+
+    Is there anything you want to say about the faculty of computing?🤔<br>
+    If you have, let\'s together make our faculty better by filling out our aspiration form, dear Computizen!📝<br><br>
+
+    In the aspiration column, Computizen doesn\'t have to write down personal identity (name/major) and Computizen is free to give honest aspirations, suggestions, ideas, or
+    constructive criticism in a form‼️<br><br>
+
+    ⭐️Let\'s together make our faculties even better by filling out the link below<br><br>
+
+    Best regards,<br>
+    PUFA Computing❤️
+    ]]>
+    </string>
+    <string name="emailSubject">Specific Information or Topic You Are Talking About</string>
+    <string name="emailBody">Dear Mr/Mrs [Departement Name],\n\n
+    I hope this email finds you well. My name is [Your Full Name], and I am from [Your Major] batch [Your Batch]. I am writing to talk about [specific information or topic you are talking about].\n\n
+    [Provide information on the purpose of your email and any context needed for the recipient to understand your question].\n\n
+    I would greatly appreciate it if you could provide me with the necessary information or direct me to the appropriate department or individual who can assist me.\n\n
+    Thank you very much for your time and assistance. I look forward to your prompt response.\n\n
+    Best regards,\n\n
+    [Your Full Name]\n
+    [Your Student ID]</string>
+</resources>
